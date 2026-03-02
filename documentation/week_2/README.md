@@ -1,4 +1,4 @@
-# Week 2 – Data Loading & Data Cleaning Fundamentals
+# Week 2 - Data Loading & Data Cleaning Fundamentals
 
 ## Overview
 The second week focused on understanding how to load data into Power BI and perform essential data cleaning operations. The sessions emphasized the importance of preparing clean and structured data before analysis.
