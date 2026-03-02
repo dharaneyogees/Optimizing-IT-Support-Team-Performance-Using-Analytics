@@ -10,22 +10,23 @@ The second week focused on understanding how to load data into Power BI and perf
 - Introduction to Power BI interface
 - Understanding how to load datasets into Power BI
 - Clarification on whether to directly load data or use the Transform Data option
-- Explanation of when to use Power Query for preprocessing before loading
+- Explanation of when to use Power Query before loading the dataset into the model
 
 ### Day 2: Data Cleaning – Part 1
 - Removing duplicate records
 - Changing and correcting data types
-- Understanding the importance of accurate data types for analysis
-- Applying basic cleaning steps using Power Query
+- Understanding the importance of accurate data types for proper analysis
+- Applying initial data cleaning steps using Power Query
 
-### Day 3: Data Cleaning – Part 2
-- Trimming unwanted spaces in text fields
-- Replacing incorrect or inconsistent values
-- Handling minor data inconsistencies
-- Final review of cleaned data before loading into the data model
+### Day 3: Data Cleaning – Part 2 (Friday Session)
+- The dataset cleaning approach was discussed collaboratively within the team
+- Team members analyzed the dataset and identified necessary cleaning steps
+- One team member took the lead and demonstrated the data cleaning process live during the session
+- Data cleaning tasks such as trimming text, replacing inconsistent values, and refining columns were performed collectively
 
 
 ## Key Outcomes
 - Gained clarity on data loading vs. data transformation in Power BI
 - Learned essential data cleaning techniques using Power Query
+- Experienced collaborative problem-solving within a team environment
 - Developed a structured approach to preparing datasets for analysis
