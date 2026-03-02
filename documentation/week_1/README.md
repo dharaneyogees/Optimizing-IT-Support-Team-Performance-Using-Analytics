@@ -27,7 +27,6 @@ The first week of the internship focused on building a strong foundation in data
 - Team members presented the datasets they selected
 - Explained dataset structure, domain relevance, and key attributes
 
----
 
 ## Key Outcomes
 - Gained clarity on fundamental data concepts
