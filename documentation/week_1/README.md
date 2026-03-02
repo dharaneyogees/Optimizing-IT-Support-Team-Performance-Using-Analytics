@@ -3,7 +3,6 @@
 ## Overview
 The first week of the internship focused on building a strong foundation in data concepts and understanding the overall project workflow. The sessions introduced key analytical concepts and tools required for the internship.
 
----
 
 ## Day-wise Learning Summary
 
