@@ -1,4 +1,4 @@
-# Week 3 – Hands-on Data Cleaning & Review Sessions
+# Week 3 - Hands-on Data Cleaning & Review Sessions
 
 ## Overview
 The third week focused on practical, hands-on data cleaning exercises using two different datasets. The sessions emphasized applying previously learned concepts collaboratively and improving confidence through live demonstrations and review discussions.
