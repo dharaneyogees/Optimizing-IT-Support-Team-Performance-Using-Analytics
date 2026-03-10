@@ -11,15 +11,17 @@ The dataset used in this project contains IT service desk ticket information. It
 
 Key fields in the dataset include:
 
-- Ticket ID  
-- Issue Category  
-- Priority Level (Low, Medium, High, Critical)  
-- Assigned Support Agent  
-- Ticket Status (Open, In Progress, Closed)  
-- Created Date  
-- Resolution Date  
-- Resolution Time  
-- Customer Satisfaction Rating  
+| Column Name | Description |
+|-------------|-------------|
+| Ticket ID | Unique identifier assigned to each support ticket. |
+| Issue Category | The category of the problem reported by the user (e.g., technical issue, system error, service request). |
+| Priority Level | Indicates the urgency of the issue (Low, Medium, High, Critical). |
+| Assigned Support Agent | The support staff member responsible for resolving the ticket. |
+| Ticket Status | Current state of the ticket such as Open, In Progress, or Closed. |
+| Created Date | The date and time when the ticket was created in the system. |
+| Resolution Date | The date and time when the issue was resolved. |
+| Resolution Time | Total time taken to resolve the ticket. |
+| Customer Satisfaction Rating | Feedback rating provided by the customer after the issue was resolved. |
 
 The dataset initially contains raw and uncleaned data, including missing values and inconsistencies. Data preprocessing and transformation are performed using Excel and Power Query to ensure accuracy and reliability for further analysis.
 
