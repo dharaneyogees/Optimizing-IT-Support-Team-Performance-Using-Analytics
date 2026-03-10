@@ -1,31 +1,27 @@
-# Week 4 - GitHub Repository Management, Data Cleaning Concepts & KPI Introduction
+# Week 3 - Hands-on Data Cleaning & Review Sessions
 
 ## Overview
-
-The fourth week focused on improving our project documentation using GitHub and strengthening our understanding of data cleaning techniques. The mentor also introduced the basic concepts of Exploratory Data Analysis (EDA) and Key Performance Indicators (KPIs), which are important for analyzing datasets and building effective dashboards.
+The third week focused on practical, hands-on data cleaning exercises using multiple datasets. The sessions emphasized applying previously learned concepts collaboratively and improving confidence through live demonstrations and review discussions.
 
 ## Day-wise Learning Summary
 
-### Monday to Thursday: GitHub & Data Cleaning Concepts
+### Monday to Thursday: Practical Data Cleaning Sessions
+- The mentor provided two different datasets for practice
+- One dataset was demonstrated live by a team member to show the correct data cleaning approach
+- The second dataset was a messy dataset containing approximately 200 rows
+- The team was instructed to clean the dataset based on previously taught data cleaning techniques
+- One team member took the lead and performed the cleaning process live
+- The entire team actively participated, discussed approaches, and cleaned the dataset collaboratively
+- Multiple doubts related to data cleaning were clarified during these sessions
 
-• The mentor explained the importance of maintaining a GitHub repository to document and organize all project work.  
-• We were instructed to upload our project files, datasets, and documentation regularly to GitHub.  
-• During the session, the mentor pointed out that one step in the data cleaning process was missing.  
-• We learned how to handle null values in numerical columns by replacing them with the average (mean) of that column.  
-• The mentor introduced the concept of Exploratory Data Analysis (EDA) and explained how it helps analysts understand the dataset structure and identify patterns.  
-• The concept of Key Performance Indicators (KPIs) was also explained along with their importance in measuring performance and tracking important metrics.
-
-### Friday: Review Session & Repository Presentation
-
-• A review session was conducted for all the participants.  
-• Each member introduced themselves and shared what they had learned during the internship so far.  
-• Everyone presented their GitHub repositories and explained the structure of their project folders and documentation.  
-• The session helped improve confidence in presenting project work and discussing learning outcomes.
+### Friday: Demo Review & Learning Reflection Session
+- A review session was conducted to reflect on all the sessions completed so far
+- Each team member was asked to introduce themselves
+- Participants shared what they had learned during the previous weeks
+- The session helped improve communication skills and reinforced key learning concepts
 
 ## Key Outcomes
-
-• Improved understanding of managing and documenting projects using GitHub.  
-• Learned techniques to handle missing values in numerical data.  
-• Gained basic knowledge of Exploratory Data Analysis (EDA).  
-• Understood the purpose and importance of Key Performance Indicators (KPIs).  
-• Developed confidence in presenting project progress and explaining repository structure.
+- Gained hands-on experience working with real-world messy datasets
+- Improved understanding of practical data cleaning techniques
+- Developed confidence through live demonstrations and team discussions
+- Enhanced communication skills through demo review and reflection sessions
