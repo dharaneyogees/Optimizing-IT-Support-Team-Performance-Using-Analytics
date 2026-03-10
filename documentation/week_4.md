@@ -4,7 +4,7 @@
 
 The fourth week focused on improving our project documentation using GitHub and strengthening our understanding of data cleaning techniques. The mentor also introduced the basic concepts of Exploratory Data Analysis (EDA) and Key Performance Indicators (KPIs), which are important for analyzing datasets and building effective dashboards.
 
-## Day-wise Learning Summary
+## Day-wise Learning Summary  
 
 ### Monday to Thursday: GitHub & Data Cleaning Concepts
 
