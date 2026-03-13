@@ -3,7 +3,6 @@
 ## Overview
 This week focused on understanding the dataset structure and learning key data analysis concepts before building dashboards. We learned about different types of data, the concept of Exploratory Data Analysis (EDA), and the importance of identifying outliers. Based on this understanding, we also defined analytical questions and planned the dashboards for our project.
 
----
 
 ## Day-wise Learning Summary
 
@@ -30,7 +29,6 @@ This week focused on understanding the dataset structure and learning key data a
 - The session helped reinforce the concepts of **data types, EDA, and analytical thinking**
 - Feedback was provided on the questions and dashboard planning
 
----
 
 ## Key Outcomes
 
