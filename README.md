@@ -7,7 +7,7 @@ IT support teams manage a large number of service tickets on a daily basis, maki
 
 ## 2. Dataset Description          
 
-The dataset used in this project contains IT service desk ticket information. It includes details related to ticket creation, assignment, priority level, resolution time, and status tracking.
+The dataset used in this project contains IT service desk ticket information. It includes details related to ticket creation, assignment, priority level, resolution time, and status tracking.            
 
 Key fields in the dataset include:
 
