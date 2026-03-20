@@ -6,7 +6,7 @@ This week focused on understanding the fundamentals of data modeling and differe
 
 ## Day-wise Learning Summary
 
-### Monday to Thursday: Data Modeling & Data Access
+### Monday to Wednesday: Data Modeling & Data Access
 
 - Learned the basics of data modeling and its importance in organizing data  
 - Understood Fact Tables, which store measurable numerical data like sales and quantity  
