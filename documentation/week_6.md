@@ -1,7 +1,7 @@
 # Week 6 - Data Modeling & Data Access Concepts
 
 ## Overview
-This week focused on understanding the fundamentals of data modeling and different methods of accessing and loading data. The sessions helped build a strong foundation in how data is structured and how it can be collected from various sources for analysis.
+This week focused on understanding the fundamentals of data modeling and different methods of accessing and loading data. The sessions helped build a strong foundation in how data is structured and how it can be collected from various sources for analysis.   
 
 
 ## Day-wise Learning Summary
