@@ -1,6 +1,6 @@
 # Optimizing IT Support Team Performance Using Analytics  
 
-![Project Demo](screenshots/overviewdashboard.png)
+![Overview Dashboard](screenshots/overviewdashboard.png)
 
 ## 1. Problem Statement  
 IT support teams handle a high volume of service tickets daily, making it challenging to monitor performance, resolution efficiency, and workload distribution. Delays in resolving issues and uneven allocation of tickets can negatively impact service quality and customer satisfaction.  
