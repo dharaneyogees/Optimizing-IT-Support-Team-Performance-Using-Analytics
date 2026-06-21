@@ -82,4 +82,4 @@ This project demonstrates how raw IT support data can be transformed into action
 
 
 
-⭐ **Found this end-to-end framework helpful for real-world business tracking?** Drop a star to save it to your dashboard and help other data professionals discover it! ⭐
+*⭐ Found this end-to-end framework helpful for real-world business tracking? Drop a star to save it to your dashboard and help other data professionals discover it! ⭐*
